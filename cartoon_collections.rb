@@ -11,7 +11,6 @@ def summon_captain_planet(calls)# code an argument here
     call = call.upcase
     call << "!"
   end
-  return
 end
 
 def long_planeteer_calls# code an argument here
