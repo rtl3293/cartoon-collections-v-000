@@ -26,4 +26,5 @@ def find_the_cheese(array)# code an argument here
       return cheese
     end
   if responses.all? { |e| e=nil  }
+    return nil
 end
